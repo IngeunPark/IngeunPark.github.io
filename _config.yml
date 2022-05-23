@@ -10,17 +10,14 @@ github_repo: "https://github.com/IngeunPark/IngeunPark.github.io" # you code rep
 
 # Sidebar settings
 sidebar: true                         
-sidebar-about-description: "내 소개 멘트 적기!"
+sidebar-about-description: "끊임없는 도전과 성장, 능력있는 BackEnd개발자를 향해"
 sidebar-avatar: /img/mainMyImage.png
 
 
 
-# SNS settings
-RSS: false
-github_username:    IngeunPark
-
-
-
+# # SNS settings
+# RSS: false
+# github_username:    IngeunPark
 
 
 # Build settings
@@ -64,8 +61,6 @@ gitalk:
   distractionFreeMode: true 
 
 
-# 统计
-
 # Analytics settings
 # Baidu Analytics
 ba_track_id: b50bf2b12b5338a1845e33832976fd68
@@ -91,9 +86,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+# friends: [
+#     {
+#         title: "Apple Developer",
+#         href: "https://developer.apple.com/"
+#     }
+# ]
