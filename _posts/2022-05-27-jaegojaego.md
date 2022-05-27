@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      관리를 부탁해
 subtitle:   카페 재고 및 운영관리 플랫폼 프로젝트
