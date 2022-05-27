@@ -8,6 +8,7 @@ author:     InGeunPark
 header-img: img/post-bg-re-vs-ng2.jpg
 catalog: true
 tags:
+    - Blog
 ------------------------------------
 
 test
