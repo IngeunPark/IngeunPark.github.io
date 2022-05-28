@@ -44,7 +44,9 @@ tags:
 - 데이터베이스 관리자 -  2명 <font style="color:red; font-weight:bold">(담당)</font>
 - 총 인원 : 7명
 
+# 프로젝트 진행 기간
 
+ - 2022.03.15 ~ 2022.05.16
 
 # 주요 기능
 
