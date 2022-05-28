@@ -147,3 +147,44 @@ tags:
 - 입고와 이슈출고의 데이터를 종합적으로 조회할 수 있습니다. <br>
 - 물품당 이슈발생 빈도와 각 물품 구매량 증/감소율 막대그래프를 통해 명시적으로 상태를 확인할 수 있고, 수발주 및 입출고 계획을 구상할 수 있습니다.
 </details>
+
+
+# 개발환경
+
+|   구분    |                        사용도구/언어                         |
+| :-------: | :----------------------------------------------------------: |
+|    DB     |            Oracle<br />DBeaver<br />SQLDeveloper             |
+| Language  |                            Java11                            |
+| 형상관리  |                    Gitlab<br />Sourcetree                    |
+|   FRONT   |      HTML5<br />CSS3<br />JavaScript<br />JQuery 3.6.0       |
+|  Library  | ojdbc8<br />spring-security-crpyto:5.6.2<br />spring-data-jpa:2.6.3 |
+|   Tool    |                   Intellij IDEA<br />Maven                   |
+| FrameWork |                   Spring<br />Spring boot                    |
+
+***
+
+### Front
+
+![frontImg](img/jaegojaego/frontImg.png)
+
+***
+
+### Back
+
+![BackImg](img/jaegojaego/backImg.png)
+
+***
+
+### Tool
+
+![toolImg](img/jaegojaego/toolImg.png)
+
+***
+
+### 형상관리
+
+![configurationManagementImg](img/jaegojaego/configurationManagementImg.png)
+
+***
+
+
