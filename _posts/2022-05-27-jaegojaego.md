@@ -4,7 +4,7 @@ title:      관리를 부탁해
 subtitle:   카페 재고 및 운영관리 플랫폼 프로젝트
 date:       2022-05-27
 author:     InGeunPark
-header-img: img/post-bg-re-vs-ng2.jpg
+header-img: img/thumbnail_jaego.png
 catalog: true
 tags:
 
@@ -47,6 +47,18 @@ tags:
 # 프로젝트 진행 기간
 
  - 2022.03.15 ~ 2022.05.16
+
+# 담당 역할
+
+ **DataBase Administrator(DBA, 데이터베이스 관리자)
+ - 데이터 베이스 설계, 구축, 관리, 정규화
+ <img src="../../../../img/jaegojaego/DBA_pic1.png"> 
+ - 변경 사항이 생길 때마다 논리 모델의 버전을 나눠 관리하였습니다.  
+ <img src="../../../../img/jaegojaego/DBA_pic2.png">
+ - 슈퍼타입과 서브타입의 구분을 명확히 하고 관계를 알아보기 용이하게 하기 위해 바커표기법을 통해 데이터 베이스를 설계하였습니다.
+ - 테이블을 업무별로 색깔을 통해 구분하여 관리하였습니다.
+ - 선마다 명칭을 어떠한 관계를 나타내는지 명확하게 표현되도록 관리하였습니다.
+ - 팀내 CREATE, ALERT, DROP과 같은 데이터 정의, INSERT, UPDATE, DELETE와 같은 데이터 조작  작업을 맡아 수행하였습니다.
 
 # 주요 기능
 
