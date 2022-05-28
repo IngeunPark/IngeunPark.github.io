@@ -12,7 +12,7 @@ tags:
 
 ---
 
-더 자세한 내용이 궁금하시다면?! : [관리를 부탁해 notion link](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046).
+더 자세한 내용이 궁금하시다면?! : [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
 
 # 프로젝트 명
 
