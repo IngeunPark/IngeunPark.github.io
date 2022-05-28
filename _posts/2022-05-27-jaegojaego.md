@@ -165,25 +165,25 @@ tags:
 
 ### Front
 
-<img src="../../img/jaegojaego/frontImg.png"> 
+<img src="../../../../img/jaegojaego/frontImg.png"> 
 
 ***
 
 ### Back
 
-<img src="../img/jaegojaego/backImg.png"> 
+<img src="../../../../img/jaegojaego/backImg.png"> 
 
 ***
 
 ### Tool
 
-<img src="../img/jaegojaego/toolImg.png">
+<img src="../../../../img/jaegojaego/toolImg.png">
 
 ***
 
 ### 형상관리
 
-<img src="../img/jaegojaego/configurationManagementImg.png">
+<img src="../../../../img/jaegojaego/configurationManagementImg.png">
 
 ***
 
