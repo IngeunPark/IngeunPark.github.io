@@ -165,7 +165,7 @@ tags:
 
 ### Front
 
-<img src="../img/jaegojaego/frontImg.png"> 
+<img src="../../img/jaegojaego/frontImg.png"> 
 
 ***
 
