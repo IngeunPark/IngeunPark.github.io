@@ -49,7 +49,7 @@ tags:
 # 주요 기능
 
 <details>
-<summary style="font-weight:bold">재고관리</summary>
+<summary>재고관리</summary>
     <div markdown="1">
         물품을 등록, 수정, 삭제를 할 수 있습니다.
  	바코드를 생성해줌으로써 관리의 효율성을 증대시켰습니다.
@@ -60,7 +60,7 @@ tags:
 </details>
 
 
-<details>
+<!-- <details>
 <summary style="font-weight:bold">본사 발주 관리<font style="color:red"> (담당 기능)</font></summary>
     <div markdown="1">
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 본사 직원은 원하는 상품을 원하는 수량만큼 발주합니다. <br>
@@ -177,4 +177,4 @@ tags:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 물품당 이슈발생 빈도와 각 물품 구매량 증/감소율 막대그래프를 통해 명시적으로 상태를 확인할 수 있고, 수발주 및 입출고 계획을 구상할 수 있습니다.
     </div>
 </details>
-
+ -->
