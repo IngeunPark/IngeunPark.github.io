@@ -49,7 +49,7 @@ tags:
 # 주요 기능
 
 <font style="color:red; font-weight:bold">클릭 시 상세 내용을 확인할 수 있습니다!</font>
-<br>
+
 <details>
 <summary style="font-weight:bold;"> > 재고관리</summary>
 - 물품을 등록, 수정, 삭제를 할 수 있습니다.<br>
@@ -58,7 +58,6 @@ tags:
 - 과거 히스토리 내역을 확인함으로써 합리적인 의사결정을 할 수 있습니다.<br>
 - 재고 분석을 함으로써 합리적인 재고생산계획을 세울 수 있습니다.
 </details>
-<br>
 
 <details>
 <summary style="font-weight:bold;"> > 본사 발주 관리<font style="color:red"> (담당 기능)</font></summary>
@@ -68,7 +67,6 @@ tags:
 - 발주 신청 후 거래처와 합의 후 발주 처리 상태를 변경할 수 있습니다.
 </details>
 
-<br>
 <details>
 <summary style="font-weight:bold;"> > 가맹점 발주 관리<font style="color:red"> (담당 기능)</font></summary>
 - 가맹점 직원은 원하는 상품을 원하는 수량만큼 발주합니다. <br>
@@ -79,7 +77,6 @@ tags:
 - 본사 직원은 가맹점이 제기한 이슈에 대해 확인하고 교환 처리해 줄 수 있습니다.
 </details>
 
-<br>
 <details>
 <summary style="font-weight:bold;"> > 메뉴 관리</summary>
 - 본사는 메뉴를 등록, 수정, 삭제, 상세보기를 할 수 있고 가맹점은 메뉴를 상세보기 할 수 있습니다. <br>
@@ -87,7 +84,6 @@ tags:
 - 가맹점은 원재료를 조회함으로써 발주 목록을 구성할 수 있습니다.
 </details>
 
-<br>
 <details>
 <summary style="font-weight:bold;"> > 입고 관리</summary>
 - 입고 관리 내 본사의 발주 버튼을 클릭하면 본사 발주 내역을 조회합니다. <br>
@@ -99,7 +95,6 @@ tags:
 - 재고 변동 내역에서 재고의 입,출고 내역을 조회할 수 있습니다.
 </details>
 
-<br>
 <details>
 <summary style="font-weight:bold;"> > 출고 관리</summary>
 - 출고할 발주 목록을 조회할 수 있습니다. <br>
@@ -110,7 +105,6 @@ tags:
 - 출고 내역을 조회할 수 있습니다.
 </details>
 
-<br>
 <details>
 <summary style="font-weight:bold;"> > 직원 계정 관리</summary>
 - 프로그램을 사용하는 본사 직원 계정의 통합적 관리를 할 수 있습니다. <br>
