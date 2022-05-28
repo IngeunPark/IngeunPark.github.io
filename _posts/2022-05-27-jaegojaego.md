@@ -51,6 +51,13 @@ tags:
 <font style="color:red; font-weight:bold">클릭 시 상세 내용을 확인할 수 있습니다!</font>  
 
 
+
+  
+    
+      
+        
+        
+
 <details>
 <summary style="font-weight:bold;"> > 재고관리</summary>
 - 물품을 등록, 수정, 삭제를 할 수 있습니다.<br>
