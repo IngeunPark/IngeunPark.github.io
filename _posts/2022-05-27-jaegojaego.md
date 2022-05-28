@@ -48,7 +48,7 @@ tags:
 
 # 주요 기능
 
-<font style="color:red; font-weight:bold">클릭 시 상세 내용을 확인할 수 있습니다!</font>
+<font style="color:red; font-weight:bold">클릭 시 상세 내용을 확인할 수 있습니다!</font>  
 
 
 <details>
