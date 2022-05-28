@@ -9,9 +9,10 @@ catalog: true
 tags:
 
     - Blog
+
 ---
 
-더 자세한 내용이 궁금하시다면?! : https://www.notion.so/c5422121f77a4cbaa35678d491d4f046
+더 자세한 내용이 궁금하시다면?! : <a href="https://www.notion.so/c5422121f77a4cbaa35678d491d4f046"/>
 
 # 프로젝트 명
 
@@ -50,13 +51,24 @@ tags:
 <details>
 <summary style="font-weight:bold">재고관리</summary>
     <div markdown="1">
-		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 물품을 등록, 수정, 삭제를 할 수 있습니다.<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 바코드를 생성해줌으로써 관리의 효율성을 증대시켰습니다.<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 거래처를 입력하고 입,출고 관리를 할 수 있습니다.<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 과거 히스토리 내역을 확인함으로써 합리적인 의사결정을 할 수 있습니다.<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 재고 분석을 함으로써 합리적인 재고생산계획을 세울 수 있습니다. <br>
+       	<ol>
+        	물품을 등록, 수정, 삭제를 할 수 있습니다.
+        </ol>
+        <ol>
+            바코드를 생성해줌으로써 관리의 효율성을 증대시켰습니다.
+        </ol>
+        <ol>
+            거래처를 입력하고 입,출고 관리를 할 수 있습니다.
+        </ol>
+        <ol>
+            과거 히스토리 내역을 확인함으로써 합리적인 의사결정을 할 수 있습니다.
+        </ol>
+        <ol>
+            재고 분석을 함으로써 합리적인 재고생산계획을 세울 수 있습니다.
+        </ol>
     </div>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">본사 발주 관리<font style="color:red"> (담당 기능)</font></summary>
@@ -67,6 +79,7 @@ tags:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 발주 신청 후 거래처와 합의 후 발주 처리 상태를 변경할 수 있습니다. <br>
     </div>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">가맹점 발주 관리<font style="color:red"> (담당 기능)</font></summary>
@@ -80,6 +93,7 @@ tags:
     </div>
 </details>
 
+
 <details>
 <summary style="font-weight:bold">메뉴 관리</summary>
     <div markdown="1">
@@ -88,6 +102,7 @@ tags:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 가맹점은 원재료를 조회함으로써 발주 목록을 구성할 수 있습니다. <br>
     </div>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">입고 관리</summary>
@@ -102,6 +117,7 @@ tags:
     </div>
 </details>
 
+
 <details>
 <summary style="font-weight:bold">출고 관리</summary>
     <div markdown="1">
@@ -113,6 +129,7 @@ tags:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 출고 내역을 조회할 수 있습니다. <br>
     </div>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">직원 계정 관리</summary>
@@ -126,6 +143,7 @@ tags:
     </div>
 </details>
 
+
 <details>
 <summary style="font-weight:bold">가맹점 계정 관리</summary>
     <div markdown="1">
@@ -137,6 +155,7 @@ tags:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 본사 관리자는 삭제된 가맹점 대표자, 직원 계정을 복구 할 수 있습니다. <br>
     </div>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">자재 관리</summary>
@@ -151,6 +170,7 @@ tags:
     </div>
 </details>
 
+
 <details>
 <summary style="font-weight:bold">거래처 관리</summary>
     <div markdown="1">
@@ -158,6 +178,7 @@ tags:
 		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 거래처 계약상품을 등록하고 관리할 수 있습니다. 
     </div>
 </details>
+
 
 <details>
 <summary style="font-weight:bold">백로그 관리</summary>
