@@ -197,11 +197,11 @@ catalog: true
 ***
 
 # 설계 과정
-<img src="../../../../img/jaegojaego/team_pic2.png">
-<img src="../../../../img/jaegojaego/team_pic3.png">
+<img src="../../../../img/jaegojaego/team_pic2.jpg">
+<img src="../../../../img/jaegojaego/team_pic3.jpg">
 - 팀원들과 설계 과정에서 끊임없이 의사소통하며 진행하였습니다.
 
-<img src="../../../../img/jaegojaego/team_pic1.png">
+<img src="../../../../img/jaegojaego/team_pic1.jpg">
 - 마지막날 까지 팀원 모두가 프로젝트에 대해 문제가 없는지 밤을 새며 확인하였습니다.
 
 # 구현 기능
