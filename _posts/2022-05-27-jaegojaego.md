@@ -4,15 +4,10 @@ title:      관리를 부탁해
 subtitle:   카페 재고 및 운영관리 플랫폼 프로젝트
 date:       2022-05-27
 author:     InGeunPark
-header-img: img/thumbnail_jaego.png
+header-img: img/jaegojaego/thumbnail_jaego.png
 catalog: true
-tags:
-
-    - Blog
 
 ---
-
-더 자세한 내용이 궁금하시다면?! : [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
 
 # 프로젝트 명
 
@@ -201,4 +196,17 @@ tags:
 
 ***
 
+# 설계 과정
+<img src="../../../../img/jaegojaego/team_pic2.png">
+<img src="../../../../img/jaegojaego/team_pic3.png">
+- 팀원들과 설계 과정에서 끊임없이 의사소통하며 진행하였습니다.
 
+<img src="../../../../img/jaegojaego/team_pic1.png">
+- 마지막날 까지 팀원 모두가 프로젝트에 대해 문제가 없는지 밤을 새며 확인하였습니다.
+
+# 구현 기능
+
+
+
+# 프로젝트 전반적인 내용
+- [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
