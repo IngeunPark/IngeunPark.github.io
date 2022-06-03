@@ -206,7 +206,8 @@ catalog: true
 
 # 구현 기능
 
-[추가 필요]
+##### > [본사 발주 내역 목록 조회](selectCompanyOrderList.md)
+##### > [본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)
 
 # 프로젝트 전반적인 내용
 - [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
