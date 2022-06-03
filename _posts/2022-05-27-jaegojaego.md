@@ -205,8 +205,7 @@ catalog: true
 - 마지막날 까지 팀원 모두가 프로젝트에 대해 문제가 없는지 밤을 새며 확인하였습니다.
 
 # 구현 기능
-#### 설계 과정
-#### code-review
+#### codereview
 
 <!-- [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
 [2. 본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)<br> -->
