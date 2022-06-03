@@ -6,7 +6,7 @@ header-img: img/jaegojaego/thumbnail_jaego.png
 catalog: true
 ---
 
-[이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#code-review)
+[이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#first)
 
 # 가맹점 이슈 제기
 
