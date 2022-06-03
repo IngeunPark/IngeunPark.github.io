@@ -208,7 +208,7 @@ catalog: true
 
 <!-- [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
 [2. 본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)<br> -->
-##### first [가맹점 이슈 제기](https://ingeunpark.github.io/issueRegist) <br>
+##### first [> 가맹점 이슈 제기](https://ingeunpark.github.io/issueRegist) <br>
 
 # 프로젝트 전반적인 내용
 - [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
