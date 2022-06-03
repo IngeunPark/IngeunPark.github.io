@@ -208,7 +208,7 @@ catalog: true
 #### 설계 과정
 #### CodeReview
 
-[1. 본사_발주_내역_목록_조회](https://ingeunpark.github.io/selectCompanyOrderList) <hr>
+[1. 본사_발주_내역_목록_조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
 [2. 본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)
 
 # 프로젝트 전반적인 내용
