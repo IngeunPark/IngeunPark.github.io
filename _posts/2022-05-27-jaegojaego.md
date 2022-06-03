@@ -206,7 +206,7 @@ catalog: true
 
 # 구현 기능
 
-##### > [본사_발주_내역_목록_조회](https://ingeunpark.github.io/2022/05/27/jaegojaego/selectCompanyOrderList.md)
+##### > [본사_발주_내역_목록_조회](https://ingeunpark.github.io/_posts/selectCompanyOrderList.md)
 ##### > [본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)
 
 # 프로젝트 전반적인 내용
