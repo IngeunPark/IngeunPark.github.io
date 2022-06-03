@@ -1,3 +1,3 @@
 
 
-[이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#1.)
+[이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#CodeReview)
