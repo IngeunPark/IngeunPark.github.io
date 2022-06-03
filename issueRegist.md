@@ -8,7 +8,7 @@ catalog: true
 
 # 가맹점 이슈 제기
 
-<p style="color: red;">가맹점이 발주 신청 물품을 실제로 받았을 때 물품에 대해 문제가 존재할 경우 이슈를 제기할 수 있는 기능입니다. </p>
+<p style="font-weight:bold">가맹점이 발주 신청 물품을 실제로 받았을 때 <font style="color: red;">물품에 대해 문제가 존재할 경우 이슈를 제기할 수 있는 기능</font>입니다. </p>
 
 ### 코드 설계 과정
 
