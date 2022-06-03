@@ -206,7 +206,7 @@ catalog: true
 
 # 구현 기능
 #### 설계 과정
-#### CodeReview
+#### code-review
 
 <!-- [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
 [2. 본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)<br> -->
