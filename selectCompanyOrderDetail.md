@@ -8,7 +8,7 @@ catalog: true
 
 # 본사 발주 내역 상세 조회
 
-<p style="font-weight:bold">본사가 신청한 <font style="color: red;">발주 내역</font>의 상세 내용을 조회할 수 있는 기능입니다. </p>
+<p style="font-weight:bold">본사가 신청한 발주 내역의 <font style="color: red;">상세 내용</font>을 조회할 수 있는 기능입니다. </p>
 
 ### 코드 설계 과정
 
