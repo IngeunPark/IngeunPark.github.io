@@ -104,7 +104,7 @@ catalog: true
 -> 변환된 Entity를 토대로 이슈를 생성하고, 생성한 이슈 번호를 동적쿼리를 통해 조회합니다. <br>
 조회한 이슈 번호를 사용하여 이슈 물품, 이슈 변동 내역 Entity에 이슈 번호를 저장하고 쿼리 메소드(save)를 통해 이슈 물품 정보, 이슈 변동 내역 정보들을 데이터 베이스에 저장합니다.
 
-## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#zzzzz)
+## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
 
 
 
