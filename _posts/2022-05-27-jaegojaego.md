@@ -208,11 +208,24 @@ catalog: true
 
 <!-- [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
 [2. 본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)<br> -->
-##### first
+##### list
 [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
-
-##### zzzzz
-[1. 가맹점 이슈 제기](https://ingeunpark.github.io/issueRegist) <br>
+[2. 본사 발주 내역 상세 조회](https://ingeunpark.github.io/selectCompanyOrderDetail) <br>
+[3. 본사 발주 신청](https://ingeunpark.github.io/companyOrderRegist) <br>
+[4. 본사 발주 내역 수정](https://ingeunpark.github.io/companyOrderModify) <br>
+[5. 본사 발주 내역 처리 상태 변경](https://ingeunpark.github.io/companyOrderModifyStatus) <br>
+[6. 본사 발주 내역 거래처 목록 조회](https://ingeunpark.github.io/selectCompanyOrderCientList) <br>
+[7. 본사 발주 내역 발주 신청서 상세 조회](https://ingeunpark.github.io/selectCompanyOrderOrderApplicationDetail) <br>
+[8. 가맹점 발주 내역 목록 조회](https://ingeunpark.github.io/selectFranchiseOrderList) <br>
+[9. 가맹점 발주 내역 상세 조회](https://ingeunpark.github.io/selectFranchiseOrderDetail) <br>
+[10. 가맹점 발주 신청](https://ingeunpark.github.io/franchiseOrderRegist) <br>
+[11. 가맹점 발주 처리 상태 변경](https://ingeunpark.github.io/franchiseOrderModifyStatus) <br>
+[12. 가맹점 발주 거부 사유서 조회](https://ingeunpark.github.io/selectFranchiseOrderReject) <br>
+[13. 가맹점 이슈 목록 조회](https://ingeunpark.github.io/issueList) <br>
+[14. 가맹점 이슈 상세 조회](https://ingeunpark.github.io/issueDetail) <br>
+[15. 가맹점 이슈 제기](https://ingeunpark.github.io/issueRegist) <br>
+[17. 가맹점 이슈 수정](https://ingeunpark.github.io/issueModify) <br>
+[18. 가맹점 이슈 처리 상태 변경](https://ingeunpark.github.io/issueModifyStatus) <br>
 
 # 프로젝트 전반적인 내용
 - [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
