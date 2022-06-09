@@ -83,7 +83,7 @@ catalog: true
 <img src="../../../../img/jaegojaego/companyOrderList/company-order-list_14.png"> <br>
 -> 쿼리 메소드인 findAll을 통해 본사 발주 내역 목록 전체를 불러 온 후 List에 담고 modelMapper를 통해 Entity를 DTO 자료형으로 변환하여 반환하도록 구현하였습니다. <br>
 
-## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#first)
+## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
 
 
 
