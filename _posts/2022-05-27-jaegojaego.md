@@ -55,6 +55,7 @@ catalog: true
  - 관계선마다 명칭을 어떠한 관계를 나타내는지 명확하게 표현되도록 관리하였습니다.
  - 팀내 CREATE, ALERT, DROP과 같은 데이터 정의, INSERT, UPDATE, DELETE와 같은 데이터 조작  작업을 맡아 수행하였습니다.
 
+<br>
 <font style="color:red; font-weight:bold">아래의 링크에서 더 자세한 내용을 확인하실 수 있습니다!</font>  
 - [관리를 부탁해 - 논리 모델링](https://www.notion.so/b8c286182d014d6d84e0439e25d3e60b)
 
