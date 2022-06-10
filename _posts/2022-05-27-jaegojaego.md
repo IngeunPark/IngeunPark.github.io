@@ -55,6 +55,9 @@ catalog: true
  - 관계선마다 명칭을 어떠한 관계를 나타내는지 명확하게 표현되도록 관리하였습니다.
  - 팀내 CREATE, ALERT, DROP과 같은 데이터 정의, INSERT, UPDATE, DELETE와 같은 데이터 조작  작업을 맡아 수행하였습니다.
 
+<font style="color:red; font-weight:bold">아래의 링크에서 더 자세한 내용을 확인하실 수 있습니다!</font>  
+- [관리를 부탁해 - 논리 모델링](https://www.notion.so/b8c286182d014d6d84e0439e25d3e60b)
+
 # 주요 기능
 
 <font style="color:red; font-weight:bold">클릭 시 상세 내용을 확인할 수 있습니다!</font>  
@@ -172,25 +175,25 @@ catalog: true
 
 ***
 
-### Front
+<h4> Front </h4>
 
 <img src="../../../../img/jaegojaego/frontImg.png"> 
 
 ***
 
-### Back
+<h4> Back </h4>
 
 <img src="../../../../img/jaegojaego/backImg.png"> 
 
 ***
 
-### Tool
+<h4> Tool </h4>
 
 <img src="../../../../img/jaegojaego/toolImg.png">
 
 ***
 
-### 형상관리
+<h4> 형상관리 </h4>
 
 <img src="../../../../img/jaegojaego/configurationManagementImg.png">
 
@@ -228,4 +231,4 @@ catalog: true
 [18. 가맹점 이슈 처리 상태 변경](https://ingeunpark.github.io/issueModifyStatus) <br>
 
 # 프로젝트 전반적인 내용
-- [관리를 부탁해](https://www.notion.so/c5422121f77a4cbaa35678d491d4f046)
+- [관리를 부탁해](https://www.notion.so/1ab588e19efa43929fdee3768e5f34a0)
