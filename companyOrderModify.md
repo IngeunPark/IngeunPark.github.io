@@ -97,7 +97,7 @@ catalog: true
 <img src="../../../../img/jaegojaego/companyOrderModify/company-order-modify_15.png"> <br>
 -> Controller에서 전달 받은 발주 내역 번호를 토대로 기존 발주 신청 물품, 발주 신청서, 발주 신청서 물품을 조회해와 쿼리 메소드 delete를 사용하여 데이터를 지우도록 구현하였습니다. <br>
 
-<img src="../../../../img/jaegojaego/companyOrderRegist/company-order-modify_16.png"> <br>
+<img src="../../../../img/jaegojaego/companyOrderModify/company-order-modify_16.png"> <br>
 -> 기존 발주 신청과 같은 작업으로 수정이 이루어지도록 구현하였습니다.
 
 ## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
