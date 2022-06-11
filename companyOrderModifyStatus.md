@@ -9,7 +9,7 @@ catalog: true
 # 본사 발주 처리 상태 변경
 
 <p style="font-weight:bold">본사가 발주 내역의 처리 상태가 <font style="color:red;">"처리 전"</font>상태인 발주 내역의 처리 상태를 변경할 수 있습니다. 
-  <font style="color:blue;">승인완료</font>또는 <font style="color:blue;">신청취소</font>로 발주의 처리 상태를 변경할 수 있습니다.</p>
+  <font style="color:blue;">승인완료</font>또는 <font style="color:red;">신청취소</font>로 발주의 처리 상태를 변경할 수 있습니다.</p>
 
 ### 코드 설계 과정
 
