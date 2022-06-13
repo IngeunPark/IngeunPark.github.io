@@ -85,7 +85,7 @@ catalog: true
 
 ##### [Controller]
 <img src="../../../../img/jaegojaego/franchiseOrderDetail/franchise-order-detail_12.png"> <br>
--> view에서 전달한 발주 내역 번호를 WebRequest를 사용하여 변수에 담고 service 메소드에 전달하였습니다. 반환 받은 발주 내역 물품 목록 정보를 view에 gson을 사용하여 반환하도록 구현하였스빈다.
+-> view에서 전달한 발주 내역 번호를 WebRequest를 사용하여 변수에 담고 service 메소드에 전달하였습니다. 반환 받은 발주 내역 물품 목록 정보를 view에 gson을 사용하여 반환하도록 구현하였다.
 
 ##### [Service]
 <img src="../../../../img/jaegojaego/franchiseOrderDetail/franchise-order-detail_13.png"> <br>
