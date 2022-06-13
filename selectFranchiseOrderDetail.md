@@ -89,8 +89,7 @@ catalog: true
 
 ##### [Service]
 <img src="../../../../img/jaegojaego/franchiseOrderDetail/franchise-order-detail_13.png"> <br>
--> Contoller에서 제공 받은 가맹점 발주 내역 번호로 쿼리 메소드 findById 를 사용하여 가맹점 발주 내역 상세 정보를 조회하였습니다. 그 후 필요한 정보를 담기 위해 FranchiseOrderDetailDTO 자료형 List
-에 반복문을 통하여 정보를 저장 후 Controller로 반환하도록 구현하였습니다.
+-> Contoller에서 제공 받은 가맹점 발주 내역 번호로 쿼리 메소드 findById 를 사용하여 가맹점 발주 내역 상세 정보를 조회하였습니다. 그 후 필요한 정보를 담기 위해 FranchiseOrderDetailDTO 자료형 List에 반복문을 통하여 정보를 저장 후 Controller로 반환하도록 구현하였습니다.
 
 
 ## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
