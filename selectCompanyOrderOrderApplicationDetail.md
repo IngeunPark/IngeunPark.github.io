@@ -15,7 +15,7 @@ catalog: true
 #### [요구 사항 명세]
 <img src="../../../../img/jaegojaego/companyOrderApplication/company-order-orderApplication_1.png"> <br>
 
-! 제가 클라이언트라면 [본사 발주 내역 수정] 기능에 대해 어떠한 요구를 제시할 지 생각하고 작성한 [요구 사항 명세]입니다.
+! 제가 클라이언트라면 [본사 발주 내역 발주 신청서 상세 조회] 기능에 대해 어떠한 요구를 제시할 지 생각하고 작성한 [요구 사항 명세]입니다.
 
 #### [단위 업무 정의서] 
 
