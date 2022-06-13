@@ -80,7 +80,7 @@ catalog: true
 ##### [Html]
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_11.png"> <br>
 -> thymeleaf를 사용하여 Controller에서 전달 받은 가맹점 발주 내역 정보를 화면에 출력되도록 구현하였습니다. 
-<th:if> 를 사용하여 대표가 신청한 발주인지 매니저가 신청한 발주인지 조건을 따지도록 구현하였습니다. <br>
+th:if 태를 사용하여 대표가 신청한 발주인지 매니저가 신청한 발주인지 조건을 따지도록 구현하였습니다. <br>
 
 ##### [Controller]
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_12.png"> <br>
