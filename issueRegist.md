@@ -23,6 +23,8 @@ catalog: true
 
 ! [요구 사항 명세] 를 토대로 가맹점이 이슈를 제기 할 때 어떠한 업무가 필요할 것인지 생각하고 작성한 [단위 업무 정의서]입니다.
 
+## [자세한 내용](https://www.notion.so/912b85f8f7f645b6859401cccae0124b)
+
 #### [데이터 베이스 논리 모델링]
 - 초기 논리 모델링 <br>
 <img src="../../../../img/jaegojaego/issueRegist/issue-regist_3.png"> <br>
