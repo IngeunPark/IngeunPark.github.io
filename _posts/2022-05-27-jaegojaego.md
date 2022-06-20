@@ -209,8 +209,6 @@ catalog: true
 
 # 구현 기능
 
-<!-- [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/selectCompanyOrderList) <br>
-[2. 본사 발주 내역 상세 조회](selectCompanyOrderDetail.md)<br> -->
 ##### list
 [1. 본사 발주 내역 목록 조회](https://ingeunpark.github.io/jaegojaego/selectCompanyOrderList) <br>
 [2. 본사 발주 내역 상세 조회](https://ingeunpark.github.io/jaegojaego/selectCompanyOrderDetail) <br>
@@ -231,4 +229,4 @@ catalog: true
 [18. 가맹점 이슈 처리 상태 변경](https://ingeunpark.github.io/jaegojaego/issueModifyStatus) <br>
 
 # 프로젝트 전반적인 내용
-- [관리를 부탁해](https://www.notion.so/1ab588e19efa43929fdee3768e5f34a0)
+- [관리를 부탁해](https://grove-tip-3a4.notion.site/1ab588e19efa43929fdee3768e5f34a0)
