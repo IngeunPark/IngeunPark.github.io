@@ -6,7 +6,7 @@ header-img: img/jaegojaego/thumbnail_jaego.png
 catalog: true
 ---
 
-# 가맹점 이슈 제기
+# 가맹점 이슈 수정
 
 <p style="font-weight:bold">가맹점이 신청한 이슈를 <font style="color: red;">수정</font>할 수 있는 기능입니다. </p>
 
