@@ -59,7 +59,7 @@ catalog: true
 ### 화면 및 코드 설명
 
 #### 화면
-<img src="../../../../img/byat/projectRegist/project-reigst_5.PNG"> <br>
+<img src="../../../../img/byat/projectRegist/project-regist_5.PNG"> <br>
 -> 프로젝트 목록 페이지에서 우측 상단 프로젝트 생성 버튼을 클릭합니다. <br>
 
 <img src="../../../../img/byat/projectRegist/project-regist_6.PNG"> <br>
