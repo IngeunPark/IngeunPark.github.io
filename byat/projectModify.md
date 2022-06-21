@@ -74,7 +74,7 @@ catalog: true
 ##### [ServiceImpl]
 <img src="../../../../img/byat/projectModify/project-modify_8.PNG">
 <img src="../../../../img/byat/projectModify/project-modify_9.PNG"><br>
--> controller에 전달 받은 정보를 토대로 프로젝트를 수정하고, 로그인한 사용자의 정보를 토대로 수정자로 데이터를 저장하빈다. 또한 수정 작업이 일어났기 때문에 알림과 일정을 사용자 데이터를 이용하여 생성합니다. 히스토리와 상태 이력 데이터 또한 변경 내용으로 저장 하도록 구현하였습니다.
+-> controller에 전달 받은 정보를 토대로 프로젝트를 수정하고, 로그인한 사용자의 정보를 토대로 수정자로 데이터를 저장합니다. 또한 수정 작업이 일어났기 때문에 알림과 일정을 사용자 데이터를 이용하여 생성합니다. 히스토리와 상태 이력 데이터 또한 변경 내용으로 저장 하도록 구현하였습니다.
 
 ## [이전 페이지로](https://ingeunpark.github.io/2022/05/16/byat/#list)
 
