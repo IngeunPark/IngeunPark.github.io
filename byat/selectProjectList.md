@@ -78,7 +78,7 @@ catalog: true
 <img src="../../../../img/byat/selectProjectList/project-list_12.PNG"> <br>
 -> controller에서 전달 받은 로그인한 사용자의 정보를 이용하여 Mapper 메소드를 이용하여 프로젝트 목록을 반환받습니다. 그 후 반복문으로 역할 순으로 정렬 되도록 구현하였습니다. 오늘 날짜와 시작, 종료 날짜를 비교하여 진행 상태가 변경되도록 조건을 사용하였으며 상태가 변경되었을 경우 변경 이력 또한 저장되도록 구현하였습니다. <br>
 
-## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
+## [이전 페이지로](https://ingeunpark.github.io/2022/05/16/byat/#list)
 
 
 
