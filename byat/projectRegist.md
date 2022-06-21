@@ -8,14 +8,14 @@ catalog: true
 
 # 프로젝트 생성
 
-<p style="font-weight:bold">권한이 PM인 멤버 <font style="color: red;">프로젝트를 생성</font>할 수 있는 기능입니다. </p>
+<p style="font-weight:bold">권한이 PM인 멤버가 <font style="color: red;">프로젝트를 생성</font>할 수 있는 기능입니다. </p>
 
 ### 코드 설계 과정
 
 #### [요구 사항 명세]
 <img src="../../../../img/byat/projectRegist/project-regist_1.PNG"> <br>
 
-! 제가 클라이언트라면 [프로젝트 목록 조회] 기능에 대해 어떠한 요구를 제시할 지 생각하고 작성한 [요구 사항 명세]입니다.
+! 제가 클라이언트라면 [프로젝트 생성] 기능에 대해 어떠한 요구를 제시할 지 생각하고 작성한 [요구 사항 명세]입니다.
 
 #### [단위 업무 정의서] 
 
