@@ -68,7 +68,7 @@ catalog: true
 <img src="../../../../img/byat/selectProjectDetail/project-detail_7.PNG"> <br>
 -> controller에서 전달 받은 프로젝트 코드를 사용하여 프로젝트 상세 정보와 프로젝트 구성원 목록을 조회합니다. 그 후 프로젝트 구성원 중 PM인 멤버를 찾아 반환할 프로젝트 상세 정보에 저장 후 반환하도록 구현하였습니다.
 
-## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
+## [이전 페이지로](https://ingeunpark.github.io/2022/05/16/byat/#list)
 
 
 
