@@ -8,7 +8,7 @@ catalog: true
 
 # 프로젝트 생성
 
-<p style="font-weight:bold">권한이 PM인 멤버는 <font style="color: red;">프로젝트를 생성</font>할 수 있는 기능입니다. </p>
+<p style="font-weight:bold">권한이 PM인 멤버 <font style="color: red;">프로젝트를 생성</font>할 수 있는 기능입니다. </p>
 
 ### 코드 설계 과정
 
