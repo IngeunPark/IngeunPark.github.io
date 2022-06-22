@@ -53,7 +53,7 @@ catalog: true
 
 ! 컨트롤러 테스트를 MockMVC 를 통해 배포 전 스프링 MVC 의 동작을 테스트하였습니다. 비동기 기능이기 때문에 contentType에 APPLICATION_JSON을 사용하였습니다.
 
-! 서비스 메소드 테스트를 given/when/then 형식으로 작성하였습니다. <br>
+! 서비스 메소드 테스트를 given/when/then 형식으로 작성하였습니다.
  1. 이슈 상세 조회 시 필요한 이슈 번호를 given에서 제공합니다.
  2. when에서 쿼리 메소드를 사용하여 이슈 상세 정보와 이슈에 해당하는 삭제되지 않은 첨부파일 목록을 조회하고 IssueDTO 에 setter를 사용하여 저장합니다.
  3. 그 후 then에서 IssueDTO가 NotNull인지 확인하도록 구한하였습니다.
@@ -80,13 +80,11 @@ catalog: true
 
 ##### [Controller]
 <img src="../../../../img/jaegojaego/issueDetail/issue-detail_11.png"> <br>
--> view에서 전달 받은 이슈 번호를 WebRequest를 사용하여 변수에 저장하고 service 메소드에 전달하여 이슈 상세 정보를 반환받도록 구현하였습니다. Gson을 사용하여 view에 전달하도록
-구현하였습니다.
+-> view에서 전달 받은 이슈 번호를 WebRequest를 사용하여 변수에 저장하고 service 메소드에 전달하여 이슈 상세 정보를 반환받도록 구현하였습니다. Gson을 사용하여 view에 전달하도록 구현하였습니다.
 
 ##### [Service]
 <img src="../../../../img/jaegojaego/issueDetail/issue-detail_12.png"> <br>
--> Controller에서 전달 받은 이슈 번호로 쿼리 메소드를 사용하여 이슈 상세 내용을 조회합니다. 또한 이슈 번호로 이슈에 해당하는 첨부파일을 쿼리 메소드를 사용하여 조회 후 이슈 상세
-DTO에 setter를 사용하여 저장합니다. 그 후 이슈 상세 내용을 반환하도록 구현하였습니다.
+-> Controller에서 전달 받은 이슈 번호로 쿼리 메소드를 사용하여 이슈 상세 내용을 조회합니다. 또한 이슈 번호로 이슈에 해당하는 첨부파일을 쿼리 메소드를 사용하여 조회 후 이슈 상세 DTO에 setter를 사용하여 저장합니다. 그 후 이슈 상세 내용을 반환하도록 구현하였습니다.
 
 ## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
 
