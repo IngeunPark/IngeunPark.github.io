@@ -81,7 +81,8 @@ catalog: true
 <img src="../../../../img/byat/issueModify/issue-modify_11.PNG">
 <img src="../../../../img/byat/issueModify/issue-modify_12.PNG">
 <img src="../../../../img/byat/issueModify/issue-modify_13.PNG">
-<img src="../../../../img/byat/issueModify/issue-modify_14.PNG"><br>
+<img src="../../../../img/byat/issueModify/issue-modify_14.PNG">
+<img src="../../../../img/byat/issueModify/issue-modify_15.PNG"><br>
 -> service와 기존 이슈 담당자 상태 변경 쿼리문입니다. Controller에서 전달 받은 이슈 정보를 사용하여 이슈 내용을 수정합니다. 그 후 이슈 담당자가 기존에 참여한 적이 있는지 조건을 따집니다. 
 이미 참여한 적이 있는 담당자의 경우 참여 상태값을 Y로 변경하여 다시 담당자로 지정하고, 처음 담당자가 된 경우라면 새로 insert 하였습니다. 모두 알림 데이터가 저장되도록하였고, 변경 이력, 구성원, 구성원 변경 이력 또한 생성되도록 구현하였습니다.
 
