@@ -27,13 +27,13 @@ catalog: true
 
 #### [데이터 베이스 논리 모델링]
 - 초기 논리 모델링 <br>
-<img src="../../../../img/byat/selectProjectList/project-list_3.png"> <br>
+<img src="../../../../img/byat/issueRegist/issue-regist_3.png"> <br>
 
 ? 기본적으로 프로젝트와 구성원 테이블은 변경이 있을 때마다 변경 사항을 저장할 테이블이 필요합니다. <br>
 ? 하지만 초기 논리 모델링에서는 히스토리와 변경 이력을 저장하지 않고 단순히 기본 테이블들만 존재하여 문제가 존재하였습니다.
 
 - 최종 논리 모델링 <br>
-<img src="../../../../img/byat/selectProjectList/project-list_4.PNG"> <br>
+<img src="../../../../img/byat/issueRegist/issue-regist_4.PNG"> <br>
 
 ! 최종적으로는 프로젝트와 구성원 테이블의 히스토리, 변경 이력 테이블을 통하여 관리할 수 있도록 구성하였습니다.
 
