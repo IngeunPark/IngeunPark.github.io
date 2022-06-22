@@ -42,7 +42,7 @@ catalog: true
 
 <img src="../../../../img/jaegojaego/franchiseOrderModifyStatus/franchise-order-modify-status_3.png"><br>
 
-! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다.
+! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다. <br>
 ! 쿼리 메소드 findById를 사용하여 처리 상태를 변경할 발주 내역을 조회한 후 setter를 사용하여 처리 상태를 변경하도록 작성하였습니다.
 
 #### [단위 테스트 & 테스트 코드]
