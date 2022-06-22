@@ -42,7 +42,7 @@ catalog: true
 
 <img src="../../../../img/jaegojaego/franchiseOrderDetail/franchise-order-detail_3.png"><br>
 
-! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다.
+! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다. <br>
 ! 쿼리 메소드 findById를 사용하여 가맹점 발주 내역 Entity를 조회한 후 컨트롤러에 DTO로 변환하여 반환하도록 작성하였습니다.
 
 #### [단위 테스트 & 테스트 코드]
