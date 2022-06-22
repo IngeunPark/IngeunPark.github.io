@@ -27,7 +27,7 @@ catalog: true
 
 #### [데이터 베이스 논리 모델링]
 - 초기 논리 모델링 <br>
-<img src="../../../../img/byat/noticeSimpleList/notice-simple-list_3.png"> <br>
+<img src="../../../../img/byat/noticeSimpleList/notice-simple-list_3.PNG"> <br>
 
 ? 기본적으로 알림은 사용자가 참여 중인 프로젝트 관련의 작업이 발생할 경우 데이터가 저장되는 방식입니다. <br>
 ? 하지만 초기 논리 모델링에서는 하나의 테이블에 모든 컬럼이 모여있을 뿐만 아니라 멤버 개인별 알림 설정도 하지 못하는 상황이었습니다. 
