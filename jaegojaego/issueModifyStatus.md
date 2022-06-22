@@ -42,7 +42,7 @@ catalog: true
 
 <img src="../../../../img/jaegojaego/issueModifyStatus/franchise-issue-modify-status_3.png"><br>
 
-! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다.
+! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다. <br>
 ! 쿼리 메소드 findById를 사용하여 처리 상태를 변경할 이슈를 조회한 후 변경자 정보를 조회하여 setter를 사용하여 처리 상태를 변경하고 변경 이력 또한 save 메소드를 사용하여 저장하도록 작성하였습니다.
 
 #### [단위 테스트 & 테스트 코드]
