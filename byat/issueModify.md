@@ -27,7 +27,7 @@ catalog: true
 
 #### [데이터 베이스 논리 모델링]
 - 초기 논리 모델링 <br>
-<img src="../../../../img/byat/issueRegist/issue-regist_3.png"> <br>
+<img src="../../../../img/byat/issueRegist/issue-regist_3.PNG"> <br>
 
 ? 기본적으로 이슈는 담당자가 초기에 지정되며 여러 번 변경될 수 있는 작업이었습니다. <br>
 ? 하지만 초기 논리 모델링에서는 담당자와 담당자 변경 이력에 대한 테이블이 존재하지 않아 문제가 존재하였습니다.
