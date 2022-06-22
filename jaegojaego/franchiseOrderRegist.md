@@ -42,14 +42,13 @@ catalog: true
 
 <img src="../../../../img/jaegojaego/franchiseOrderRegist/franchise-order-regist_3.png"><br>
 
-! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다.
-! 가맹점 발주 신청 시 가맹점 발주와 가맹점 발주 신청 물품 데이터를 저장해야 하기 때문에 발주 신청 데이터 저장 후 번호를 조회하여 그 번호를 사용하여 발주 신청 물품 데이터, 처리 상태 변경 이력
-데이터를 저장하도록 시퀀스 다이어그램을 작성하였습니다.
+! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다. <br>
+! 가맹점 발주 신청 시 가맹점 발주와 가맹점 발주 신청 물품 데이터를 저장해야 하기 때문에 발주 신청 데이터 저장 후 번호를 조회하여 그 번호를 사용하여 발주 신청 물품 데이터, 처리 상태 변경 이력 데이터를 저장하도록 시퀀스 다이어그램을 작성하였습니다. <br>
 ! 신청하는 발주 내역의 주문 번호가 이전 발주 내역과 주문 번호가 겹치지 않도록 하기 위해 발주 내역을 전체 조회하도록 하였습니다.
 
 #### [단위 테스트 & 테스트 코드]
 
-<img src="../../../../img/jaegojaego/franchiseOrderRegist/franchise-order-regist_4.png"> <br>
+<img src="../../../../img/jaegojaego/franchiseOrderRegist/franchise-order-regist_4.png"> 
 <img src="../../../../img/jaegojaego/franchiseOrderRegist/franchise-order-regist_5.png"> 
 <img src="../../../../img/jaegojaego/franchiseOrderRegist/franchise-order-regist_6.png"> 
 <img src="../../../../img/jaegojaego/franchiseOrderRegist/franchise-order-regist_7.png"> <br>
