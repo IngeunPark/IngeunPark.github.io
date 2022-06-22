@@ -92,8 +92,7 @@ catalog: true
 <p style="font-weight:bold;">본사 계정의 경우 setIssueDetail </p>
 <img src="../../../../img/jaegojaego/issueList/issue-list_18.png">
 <img src="../../../../img/jaegojaego/issueList/issue-list_19.png"><br>
--> Controller에서 전달 받은 사용자의 정보를 토대로 가맹점의 정보를 가져옵니다. 본사 계정의 경우 setIssueDetail 메소드를 통해 가맹점 대표와 가맹점 매니저별로 제기한 이슈의 목록을
-저장 후 합쳐 반환하고, 가맹점 계정의 경우 setIssueDetailByFranchise 메소드를 사용하여 매개변수로 받은 정보들을 하나로 합친 후 반환하도록 구현하였습니다.
+-> Controller에서 전달 받은 사용자의 정보를 토대로 가맹점의 정보를 가져옵니다. 본사 계정의 경우 setIssueDetail 메소드를 통해 가맹점 대표와 가맹점 매니저별로 제기한 이슈의 목록을 저장 후 합쳐 반환하고, 가맹점 계정의 경우 setIssueDetailByFranchise 메소드를 사용하여 매개변수로 받은 정보들을 하나로 합친 후 반환하도록 구현하였습니다.
 
 ## [이전 페이지로](https://ingeunpark.github.io/2022/05/27/jaegojaego/#list)
 
