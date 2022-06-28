@@ -90,7 +90,7 @@ service 메소드에 로그인한 사용자의 정보를 전달하고 가맹점 
 ##### [Service]
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_13.png"> <br>
 -> 본사 직원의 경우입니다. Controller에서 전달 받은 정보를 토대로 본사 직원 계정인지 if 문으로 조건을 따진 후 담당 중인 가맹점 대표 목록과 매니저 목록을 변수에 저장합니다. 
-setFranchiseOrderList 변수를 사용하여 각 가맹점이 신청한 발주 내역을 정리 후 Controller로 반환하도록 구현하였습니다. 
+setFranchiseOrderList 메소드를 사용하여 각 가맹점이 신청한 발주 내역을 정리 후 Controller로 반환하도록 구현하였습니다. 
 
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_14.png">
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_15.png"> <br>
