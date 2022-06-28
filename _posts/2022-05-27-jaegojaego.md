@@ -45,7 +45,7 @@ catalog: true
 
 # 담당 역할
 
- **DataBase Administrator(DBA, 데이터베이스 관리자)
+ ** DataBase Administrator(DBA, 데이터베이스 관리자)
  - 데이터 베이스 설계, 구축, 관리, 정규화
  <img src="../../../../img/jaegojaego/DBA_pic1.png"> 
  - 변경 사항이 생길 때마다 논리 모델의 버전을 나눠 관리하였습니다.  
