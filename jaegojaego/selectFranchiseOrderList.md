@@ -44,7 +44,7 @@ catalog: true
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_6.png">
 <img src="../../../../img/jaegojaego/franchiseOrderList/franchise-order-list_7.png"><br>
 
-! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다.
+! 하나의 컨트롤러에선 하나의 서비스 메소드만 호출하도록 작성하였습니다. <br>
 ! 가맹점 발주 내역 목록 조회에는 3가지 조건이 존재하며 각 조건에 맞게 시퀀스 다이어그램을 작성하였습니다.
  1. 본사 직원은 본인이 담당 중인 가맹점 계정이 신청한 발주 내역 목록을 조회할 수 있습니다.
  2. 가맹점 대표는 본인이 신청한 발주 내역과 같은 가맹점의 매니저가 신청한 발주 내역의 목록을 조회할 수 있습니다.
